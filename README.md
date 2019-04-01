@@ -5,3 +5,5 @@
 - This application lets admins add products and offer discounts
 
 - Users can see products and prices
+
+![LandingPageScreenshot](https://imgur.com/yA0ahLd)
