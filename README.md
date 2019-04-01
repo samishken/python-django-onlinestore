@@ -6,4 +6,6 @@
 
 - Users can see products and prices
 
+- Landing page screenshot
+
 ![LandingPageScreenshot](https://i.imgur.com/yA0ahLd.png)
