@@ -1,7 +1,13 @@
 ## python-django-onlinestore
 
-# Web application uses python and django to create online store.
+# Web application uses python and django to create an online store.
 
+Python you get the following awesome benefits:
+    1) Easily readable syntax.
+    2) Awesome community around the language.
+    3) Easy to learn.
+    4) Python is useful for a myriad of tasks from basic shell sripting to advanced web development.
+    
 Django is a Python web framework. It is free and open source and has been around since 2005. 
 It is very mature and comes with excellent documentation and awesome features included by default. 
 Some excellent tools it provides are:
