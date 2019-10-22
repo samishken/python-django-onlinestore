@@ -1,4 +1,4 @@
-## python-django-onlinestore
+## python-django-onlinestore (static website)
 
 # Web application uses python, django & bootstrap to create an online store.
 
